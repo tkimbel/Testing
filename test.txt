@@ -1,3 +1,4 @@
 This is my first edit on a document
 This is my second edit on a document
 This is my third edit and test push to GitHub for the first time.
+This is my fourth edit to see if my changes on a commit are automatically pushed to GitHub 
